@@ -15,6 +15,12 @@
  * along with Commodus.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+/*
+ * Updater for Bukkit.
+ *
+ * This class provides the means to safely and easily update a plugin, or check to see if it is updated using dev.bukkit.org
+ */
+
 package com.dsh105.commodus.data;
 
 import org.bukkit.configuration.file.YamlConfiguration;
